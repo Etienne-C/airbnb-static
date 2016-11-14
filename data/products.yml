@@ -1,4 +1,6 @@
-- name: Some product
-  image: some_product.png
-- name: Other product
-  image: other_product.png
+- name: Jason
+  image: https://s3.amazonaws.com/uifaces/faces/twitter/jsa/128.jpg
+- name: Claire
+  image: https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg
+- name: Mike
+  image: https://s3.amazonaws.com/uifaces/faces/twitter/tonypeterson/128.jpg

@@ -1,0 +1,20 @@
+.banner {
+  background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%), url("../../images/background.jpg");
+  height: 100vh;
+  background-size: cover;
+  color: white;
+  display : flex;
+  align-items: center;
+  justify-content: center;
+  background-attachment: fixed;
+}
+
+.banner-bloc {
+  text-align: center;
+}
+
+.banner-bloc p {
+  font-size: 22px;
+  color:  rgba(255, 255, 255, 0.8);
+  margin-bottom: 25px;
+}
